@@ -51,8 +51,16 @@ For the first (a) section, use the file named _"Heart Disease Predicition.csv"_.
 
 The final model achieved an accuracy of **0.7**, which was considered acceptable given the educational focus of the project and the goal of understanding model behavior rather than optimization.
 
-**_Copyright (c) 2026 Rawan El Shenieky_**
+## Usage Notes
+
+This repository is intended to showcase academic research and conceptual understanding of artificial intelligence techniques applied to board games. It is provided for **educational and evaluation purposes only**.
+
+
+
+## Copyright & Usage Restrictions
+
+**_Copyright (c) 2026 Rawan El Shenieky_**  
 All rights reserved.
 
-This repository is provided for viewing and evaluation purposes **only**.
+This repository is provided for viewing and evaluation purposes **only**.  
 **No permission** is granted to copy, modify, or redistribute this code.
