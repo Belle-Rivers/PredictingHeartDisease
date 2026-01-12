@@ -20,6 +20,8 @@ Language and Libraries Used:
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Sklearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+This project was developed and run on Google Colab. Check "PredictingHeartDisease_Report.pdf" to see the analysis done and the code structure explanations. 
+
 **_Copyright (c) 2026 Rawan El Shenieky_**
 All rights reserved.
 
